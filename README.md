@@ -51,17 +51,37 @@ month_name: Month of the year
 To enhance the analysis, several new features were created:
 
 Time of Day: Categorized the time column into Morning, Afternoon, and Evening.
+
 Day Name: Extracted the name of the day from the date column.
+
 Month Name: Extracted the name of the month from the date column.
-Exploratory Data Analysis (EDA)
+
+### Exploratory Data Analysis (EDA)
 The EDA focuses on answering key business questions:
 
 Product Performance: Which product lines are the most popular and profitable?
+
 Sales Trends: What are the monthly, weekly, and daily sales trends?
+
 Customer Behavior: How do different customer types and genders influence sales?
+
 Branch Performance: How do different branches perform in terms of sales and customer ratings?
-Key Findings
+
+### Key Findings
 Top-Selling Product Line: Electronic accessories are the top-selling and most profitable product line.
+
+Sales Trends: January has the highest total revenue, with Morning sales receiving the highest customer ratings.
+
+Customer Insights: Normal customers contribute more to total sales compared to members, and female customers are more frequent shoppers.
+
+Branch Performance: The Naypyitaw branch (C) has the highest total sales and customer ratings.
+
+
+
+
+
+
+
 Sales Trends: January has the highest total revenue, with Morning sales receiving the highest customer ratings.
 Customer Insights: Normal customers contribute more to total sales compared to members, and female customers are more frequent shoppers.
 Branch Performance: The Naypyitaw branch (C) has the highest total sales and customer ratings.
