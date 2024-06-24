@@ -76,12 +76,8 @@ Customer Insights: Normal customers contribute more to total sales compared to m
 
 Branch Performance: The Naypyitaw branch (C) has the highest total sales and customer ratings.
 
-
-
-
-
-
-
 Sales Trends: January has the highest total revenue, with Morning sales receiving the highest customer ratings.
+
 Customer Insights: Normal customers contribute more to total sales compared to members, and female customers are more frequent shoppers.
+
 Branch Performance: The Naypyitaw branch (C) has the highest total sales and customer ratings.
